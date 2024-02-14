@@ -33,5 +33,5 @@ git clone https://github.com/henrikBjorserud/deskcleaner.git
 
 ## License
 
-This project is licensed under the [the GNU General Public License (GPL)] License - see the LICENSE.md file for details
+This project is licensed under the [MIT] License - see the LICENSE.md file for details
 
